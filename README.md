@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akash Bhokte
-- 👀 I’m interested in Coding.
+- 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Computer Science.
 - 📫 Email Address:- akashbhokte4076@gmail.com.
 - 💞️
